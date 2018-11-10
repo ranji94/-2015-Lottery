@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015-05-26 14:34:13.818.cpp,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ranji_000\Desktop\Losbab\lotto.cpp</Transaction>
+    <Transaction>2015-05-26 14:34:13.820.h,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ranji_000\Desktop\Losbab\lotto.h</Transaction>
+    <Transaction>2015-05-26 14:34:13.820.dfm,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ranji_000\Desktop\Losbab\lotto.dfm</Transaction>
+    <Transaction>2015-05-26 14:34:16.056.cbproj,C:\Users\ranji_000\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\ranji_000\Desktop\Losbab\lotek.cbproj</Transaction>
+    <Transaction>2015-05-26 22:13:06.408.cbproj,C:\Users\ranji_000\Desktop\Losbab\lotek.cbproj=C:\Users\ranji_000\Desktop\Losbab\lotek.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
